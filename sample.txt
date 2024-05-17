@@ -1,0 +1,32 @@
+merged_data = []
+
+for partai, candidates in data_identitas.items():
+    if candidates:
+        for candidate_id, candidate_info in candidates.items():
+            no_urut = candidate_info['nomor_urut']
+            nama = candidate_info['nama']
+            tempat_tinggal = candidate_info['tempat_tinggal']
+            jumlah_suara = data_suara['table'][partai][candidate_id]
+            
+            merged_data.append({'id': candidate_id, 'partai': partai, 'nama': nama, 'nomor_urut': no_urut, 'jumlah_suara': jumlah_suara})
+
+# Display the merged data
+for entry in merged_data:
+    print(f"id: {entry['id']}, partai: {entry['partai']}, nama: {entry['nama']}, nomor_urut: {entry['nomor_urut']}, jumlah_suara: {entry['jumlah_suara']}")
+    
+    
+chart_data = data_suara['chart']
+#print(data_suara_chart)
+total_kursi = 9
+
+# Mengurutkan partai berdasarkan jumlah suara
+sorted_parties = sorted(chart_data.items(), key=lambda x: x[1], reverse=True)
+
+# Menghitung alokasi kursi dengan metode Sainte-Laguë
+allocated_seats = {}
+for i in range(total_kursi):
+    divisor = 2 * i + 1
+    party_id, votes = sorted_parties[i]
+    allocated_seats[party_id] = allocated_seats.get(party_id, 0) + 1
+
+print(allocated_seats)

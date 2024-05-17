@@ -1,0 +1,559 @@
+1704112911334	geckodriver	INFO	Listening on 127.0.0.1:44067
+1704112911818	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 55833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofileCR6fSq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.23153) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.23153) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.23153) [GFX1-]: No GPUs detected via PCI
+
+1704112913274	Marionette	INFO	Marionette enabled
+1704112913525	Marionette	INFO	Listening on port 38811
+WebDriver BiDi listening on ws://127.0.0.1:55833
+Read port: 38811
+1704112914340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1704113074153	geckodriver	INFO	Listening on 127.0.0.1:33817
+1704113074626	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 47185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofileHWg8eH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.4083) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.4083) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.4083) [GFX1-]: No GPUs detected via PCI
+
+1704113076288	Marionette	INFO	Marionette enabled
+1704113076552	Marionette	INFO	Listening on port 40123
+WebDriver BiDi listening on ws://127.0.0.1:47185
+Read port: 40123
+1704113076824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.4083) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.4083) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.7563) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47185/devtools/browser/82207793-f292-458a-b6f5-9917b95b9acd
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 2: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 4: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704113109935	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704113626848	geckodriver	INFO	Listening on 127.0.0.1:34769
+1704113627345	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 39843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofilecMQU9a"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.18472) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.18472) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.18472) [GFX1-]: No GPUs detected via PCI
+
+1704113628731	Marionette	INFO	Marionette enabled
+1704113628987	Marionette	INFO	Listening on port 45985
+WebDriver BiDi listening on ws://127.0.0.1:39843
+Read port: 45985
+1704113629255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.18472) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.18472) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.47272) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39843/devtools/browser/cf43ee4a-0f02-4d24-8f82-13e81f87dfc7
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704113662038	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1704113665737	geckodriver	INFO	Listening on 127.0.0.1:55423
+1704113666282	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 44327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofileRDrdIc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.75767) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.75767) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.75767) [GFX1-]: No GPUs detected via PCI
+
+1704113668327	Marionette	INFO	Marionette enabled
+1704113668667	Marionette	INFO	Listening on port 35421
+Read port: 35421
+WebDriver BiDi listening on ws://127.0.0.1:44327
+1704113668972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.75767) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.75767) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=4.72166) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44327/devtools/browser/278ebb05-cb08-4500-ab3c-a9546ccc0115
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 2: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 4: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704113698640	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704113831169	geckodriver	INFO	Listening on 127.0.0.1:56049
+1704113831693	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 37855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofileCQdXhH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.727) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.727) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.727) [GFX1-]: No GPUs detected via PCI
+
+1704113833707	Marionette	INFO	Marionette enabled
+1704113834051	Marionette	INFO	Listening on port 35249
+WebDriver BiDi listening on ws://127.0.0.1:37855
+Read port: 35249
+1704113834328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.727) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.727) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=4.803) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37855/devtools/browser/0dfc8eae-9945-49de-9be6-5ff349c5d47d
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 2: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 4: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/lzd_sec/epssw/0.0.5/epssw.js, line 4: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/et/1.70.8/et_f.js, line 3: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/et/1.70.8/et_f.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/et/1.70.8/et_f.js, line 6: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/et/1.70.8/et_f.js, line 6: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/et/1.70.8/et_f.js, line 5: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/et/1.70.8/et_f.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://g.lazcdn.com/g/AWSC/fireyejs/1.227.0/fireyejs.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704113863985	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704114496199	geckodriver	INFO	Listening on 127.0.0.1:34861
+1704114496703	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 34407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofilewAowap"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.15837) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.15837) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.15837) [GFX1-]: No GPUs detected via PCI
+
+1704114498073	Marionette	INFO	Marionette enabled
+1704114498318	Marionette	INFO	Listening on port 40439
+WebDriver BiDi listening on ws://127.0.0.1:34407
+Read port: 40439
+1704114498935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.15837) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.15837) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.40637) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34407/devtools/browser/3e019788-28de-4441-8350-4aa7f27eb8df
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704114529974	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704114698841	geckodriver	INFO	Listening on 127.0.0.1:52059
+1704114699345	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 50793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofileN9p4ad"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.26162) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.26162) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.26162) [GFX1-]: No GPUs detected via PCI
+
+1704114700914	Marionette	INFO	Marionette enabled
+1704114701240	Marionette	INFO	Listening on port 41957
+Read port: 41957
+WebDriver BiDi listening on ws://127.0.0.1:50793
+1704114701593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.26162) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.26162) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=4.36162) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50793/devtools/browser/a476ebc1-5d6f-427e-8ec5-219fc99ff45d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704114732886	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1704114734688	geckodriver	INFO	Listening on 127.0.0.1:42499
+1704114735188	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 33201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofile2Ccjh3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.36223) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.36223) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.36223) [GFX1-]: No GPUs detected via PCI
+
+1704114736795	Marionette	INFO	Marionette enabled
+1704114737194	Marionette	INFO	Listening on port 37325
+WebDriver BiDi listening on ws://127.0.0.1:33201
+Read port: 37325
+1704114738481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.36223) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.36223) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=5.10623) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: ({})
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:33201/devtools/browser/b5aa547c-1ae4-473f-a96f-8b11fb4fab1e
+1704114762013	geckodriver	INFO	Listening on 127.0.0.1:45765
+1704114762535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 42523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofilePk5c1L"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.12319) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.12319) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.12319) [GFX1-]: No GPUs detected via PCI
+
+1704114763891	Marionette	INFO	Marionette enabled
+1704114764196	Marionette	INFO	Listening on port 43467
+Read port: 43467
+WebDriver BiDi listening on ws://127.0.0.1:42523
+1704114764493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.12319) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.12319) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.93119) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704114767931	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+DevTools listening on ws://127.0.0.1:42523/devtools/browser/718a5fa9-1039-4cdb-8e02-2948f127187c
+1704114803949	geckodriver	INFO	Listening on 127.0.0.1:46513
+1704114804470	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 39341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofile0qdCqf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.32931) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.32931) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.33331) [GFX1-]: No GPUs detected via PCI
+
+1704114806049	Marionette	INFO	Marionette enabled
+1704114806344	Marionette	INFO	Listening on port 38683
+Read port: 38683
+WebDriver BiDi listening on ws://127.0.0.1:39341
+1704114806559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.32931) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.33331) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.51331) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39341/devtools/browser/bb053965-4572-48bc-9b3f-940b449b4906
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704114837768	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704115032162	geckodriver	INFO	Listening on 127.0.0.1:42471
+1704115032671	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 60475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofilewVbDnC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.48439) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.48439) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.48439) [GFX1-]: No GPUs detected via PCI
+
+1704115034407	Marionette	INFO	Marionette enabled
+1704115034838	Marionette	INFO	Listening on port 45733
+Read port: 45733
+WebDriver BiDi listening on ws://127.0.0.1:60475
+1704115035172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.48439) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.48439) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=4.03239) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60475/devtools/browser/5dc208f1-4c41-43d8-8f0a-2bd129b19512
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704115065076	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704115110306	geckodriver	INFO	Listening on 127.0.0.1:39901
+1704115110818	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 38377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofilelu0zea"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.53224) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.53224) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.53224) [GFX1-]: No GPUs detected via PCI
+
+1704115112627	Marionette	INFO	Marionette enabled
+1704115112947	Marionette	INFO	Listening on port 46579
+WebDriver BiDi listening on ws://127.0.0.1:38377
+Read port: 46579
+1704115113597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.53224) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.53224) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.99224) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38377/devtools/browser/d1d699c2-cae7-40af-aa13-545634c6f39f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704115144140	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704115321818	geckodriver	INFO	Listening on 127.0.0.1:34155
+1704115321845	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 36749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofile6cgQA4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.38109) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.38109) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.38109) [GFX1-]: No GPUs detected via PCI
+
+1704115323506	Marionette	INFO	Marionette enabled
+1704115323906	Marionette	INFO	Listening on port 34375
+Read port: 34375
+WebDriver BiDi listening on ws://127.0.0.1:36749
+1704115324206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.38109) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.38109) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=3.84509) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36749/devtools/browser/740e4227-3586-4412-a0bb-94e5761346bb
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704115356159	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704115537661	geckodriver	INFO	Listening on 127.0.0.1:58591
+1704115538177	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 35711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofileusMdc1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.55926) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.55926) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.55926) [GFX1-]: No GPUs detected via PCI
+
+1704115539995	Marionette	INFO	Marionette enabled
+1704115540325	Marionette	INFO	Listening on port 35729
+WebDriver BiDi listening on ws://127.0.0.1:35711
+Read port: 35729
+1704115540577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.55926) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.55926) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=4.16726) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35711/devtools/browser/ee2c0f99-19ab-45fa-a636-a859b62e6aef
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704115572879	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704116216029	geckodriver	INFO	Listening on 127.0.0.1:58919
+1704116216527	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 38833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofilekK094c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.62662) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.62662) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.63062) [GFX1-]: No GPUs detected via PCI
+
+1704116218658	Marionette	INFO	Marionette enabled
+1704116219133	Marionette	INFO	Listening on port 34973
+Read port: 34973
+WebDriver BiDi listening on ws://127.0.0.1:38833
+1704116219679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.62662) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.63062) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=6.61062) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38833/devtools/browser/4164ae88-1a67-49ec-b83b-39391296f15d
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704116249631	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704116344803	geckodriver	INFO	Listening on 127.0.0.1:51717
+1704116345329	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 47707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofile2aX7jO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=2.19696) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=2.19696) |[1][GFX1-]: No GPUs detected via PCI
+ (t=2.19696) [GFX1-]: No GPUs detected via PCI
+
+1704116347848	Marionette	INFO	Marionette enabled
+1704116348268	Marionette	INFO	Listening on port 33085
+WebDriver BiDi listening on ws://127.0.0.1:47707
+Read port: 33085
+1704116348661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=2.19696) |[1][GFX1-]: No GPUs detected via PCI
+ (t=2.19696) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=5.72896) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47707/devtools/browser/9156236a-4c58-4039-bc13-a57abce09158
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704116382611	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704117878205	geckodriver	INFO	Listening on 127.0.0.1:56061
+1704117878810	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 56983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofile86dqRH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=2.33922) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=2.33922) |[1][GFX1-]: No GPUs detected via PCI
+ (t=2.33922) [GFX1-]: No GPUs detected via PCI
+
+1704117881842	Marionette	INFO	Marionette enabled
+1704117882409	Marionette	INFO	Listening on port 43477
+Read port: 43477
+WebDriver BiDi listening on ws://127.0.0.1:56983
+1704117882826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=2.33922) |[1][GFX1-]: No GPUs detected via PCI
+ (t=2.33922) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=6.55922) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56983/devtools/browser/7902d971-b7f5-45b6-a2cb-7a944daf5196
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704117915123	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704119045527	geckodriver	INFO	Listening on 127.0.0.1:43101
+1704119046033	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/dat ... 59599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/data/data/com.termux/files/usr/tmp/rust_mozprofile0e7IBr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.64299) [GFX1-]: glxtest: Unable to open a connection to the X server
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.64299) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.64299) [GFX1-]: No GPUs detected via PCI
+
+1704119047959	Marionette	INFO	Marionette enabled
+1704119048259	Marionette	INFO	Listening on port 33989
+WebDriver BiDi listening on ws://127.0.0.1:59599
+Read port: 33989
+1704119048690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: Unable to open a connection to the X server (t=1.64299) |[1][GFX1-]: No GPUs detected via PCI
+ (t=1.64299) |[2][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=4.37499) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59599/devtools/browser/1358c14f-e127-4add-88b8-a9865566b94f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704119079982	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))

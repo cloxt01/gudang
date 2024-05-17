@@ -1,0 +1,485 @@
+{
+    "1": {
+        "195669": {
+            "nama": "RIJAL, M.I.Kom.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "195670": {
+            "nama": "DARMAN SUDARMAN, S.I.P.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "195671": {
+            "nama": "DEVI PERMANA",
+            "nomor_urut": 3,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "195672": {
+            "nama": "ADE SURYANA",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "195673": {
+            "nama": "AHMAD JUMAEDI",
+            "nomor_urut": 5,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "195674": {
+            "nama": "IHDA ROSYIDAH",
+            "nomor_urut": 6,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "195675": {
+            "nama": "ANIS APRIANTI",
+            "nomor_urut": 7,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "2": {
+        "222369": {
+            "nama": "TAJUDIN, S.H.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "222370": {
+            "nama": "SAMBOJA UTON WITONO",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "222371": {
+            "nama": "ENENG KARWATI",
+            "nomor_urut": 3,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "222372": {
+            "nama": "H. SAEPUDIN ROJAK",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "222373": {
+            "nama": "LUPPY ALPIANA RAMADHAN, S.IP.",
+            "nomor_urut": 5,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "TANGERANG"
+        },
+        "222374": {
+            "nama": "ELISNAWATI, S.Pd.",
+            "nomor_urut": 6,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "222375": {
+            "nama": "RUSTANDI",
+            "nomor_urut": 7,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "3": {
+        "249069": {
+            "nama": "RUDI KURNIAWAN",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "249070": {
+            "nama": "H. AGUS ISMATULLAH, S.H.I.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "249071": {
+            "nama": "INTAN ROSDIANA",
+            "nomor_urut": 3,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "249072": {
+            "nama": "FAUZI NURHOLIQ",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "249073": {
+            "nama": "TIA AGUSTIN",
+            "nomor_urut": 5,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "249074": {
+            "nama": "H. DIMAS, S.IP.",
+            "nomor_urut": 6,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "249075": {
+            "nama": "JAENAL ARIPIN, S.Sos.",
+            "nomor_urut": 7,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "4": {
+        "275769": {
+            "nama": "Hj. ENENG ITA ROSITA, S.ST., MM., M.Kes.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "275770": {
+            "nama": "ENDAH LESTARI, S.H.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "275771": {
+            "nama": "Dr. H. SUMAWIJAYA, M.Si.",
+            "nomor_urut": 3,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "275772": {
+            "nama": "MUAMMAR ADI PRASETYA, S.P., M.Agr.",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "275773": {
+            "nama": "SYARIFAH NAZLA ASSEGAF",
+            "nomor_urut": 5,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "KOTA SERANG"
+        },
+        "275774": {
+            "nama": "DINDIN SAPRUDIN, S.Pd.I.",
+            "nomor_urut": 6,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "275775": {
+            "nama": "PIPIT CANDRA, A.Md.",
+            "nomor_urut": 7,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "5": {
+        "302469": {
+            "nama": "LILIS LISNAWATI",
+            "nomor_urut": 1,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "302470": {
+            "nama": "Dr. UJANG GIRI ( UGI ), M.A.P.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "302471": {
+            "nama": "LILI SUHELI, S.AP.",
+            "nomor_urut": 3,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "302472": {
+            "nama": "ANA MULYANA",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "302473": {
+            "nama": "TATANG SUBARNA, S.Pd.I.",
+            "nomor_urut": 5,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "302474": {
+            "nama": "VIVI ROZA AMALIA",
+            "nomor_urut": 6,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "302475": {
+            "nama": "SUNITA NURFALAH",
+            "nomor_urut": 7,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "6": {
+        "329169": {
+            "nama": "SHERLY DWI ANDRIYANI",
+            "nomor_urut": 1,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "7": {
+        "355869": {
+            "nama": "EDI HANDOKO, S.E.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "8": {
+        "382569": {
+            "nama": "SUDINTA, S.Pd.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "382570": {
+            "nama": "ANWAR SOLEH HIDAYAT, S.Pd.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "382571": {
+            "nama": "IHAT SOLIHAT",
+            "nomor_urut": 3,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "382572": {
+            "nama": "JAIDUDIN, S.Pd.I., M. Pd.",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "382573": {
+            "nama": "ANDRIANI LENIAWATI, S.Pd.",
+            "nomor_urut": 5,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "382574": {
+            "nama": "UUM",
+            "nomor_urut": 6,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "382575": {
+            "nama": "H. HAERUDIN",
+            "nomor_urut": 7,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "9": {
+        "409269": {
+            "nama": "HERIYANTO",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "KOTA SERANG"
+        },
+        "409270": {
+            "nama": "NUNUNG NURSILAWATI",
+            "nomor_urut": 2,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "409271": {
+            "nama": "SAMSUDIN",
+            "nomor_urut": 3,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "10": {
+        "435969": {
+            "nama": "SOMMA HASAN",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "435970": {
+            "nama": "SHERLY DAMAYANTI",
+            "nomor_urut": 2,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "11": null,
+    "12": {
+        "489369": {
+            "nama": "ASID",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "489370": {
+            "nama": "SELLY AYUNINGTHIAS",
+            "nomor_urut": 2,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "13": null,
+    "14": {
+        "542769": {
+            "nama": "H. AA SURYADI, S.E.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "542770": {
+            "nama": "DIKI DIKRILAH, S.Pd.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "542771": {
+            "nama": "SRI RAHAYU R NOVASARI",
+            "nomor_urut": 3,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "542772": {
+            "nama": "YUSUP NURMASULA",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "542773": {
+            "nama": "RIZAL SETIAWAN",
+            "nomor_urut": 5,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "542774": {
+            "nama": "DEWI NOVIA ZAHROH",
+            "nomor_urut": 6,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "542775": {
+            "nama": "ARI PRAMUDYA",
+            "nomor_urut": 7,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "15": {
+        "569469": {
+            "nama": "OMAN ROHMAWAN",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "569470": {
+            "nama": "YUDISTIRA AJI SIDARTA",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "569471": {
+            "nama": "RODIAH",
+            "nomor_urut": 3,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "569472": {
+            "nama": "WARSA KOMARA",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "569473": {
+            "nama": "TINA RATNASARI",
+            "nomor_urut": 5,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "569474": {
+            "nama": "SUNANDAR, S.Pd.I.",
+            "nomor_urut": 6,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "16": {
+        "596169": {
+            "nama": "AM. ERWIN KOMARA SUKMA",
+            "nomor_urut": 1,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "596170": {
+            "nama": "WAWAT SETIAWATI, S.Sos.",
+            "nomor_urut": 2,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "596171": {
+            "nama": "WAWAN HERMAWAN, S.E.",
+            "nomor_urut": 3,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "596172": {
+            "nama": "DEDDY KUSDIANA",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "596173": {
+            "nama": "SAPRUDIN",
+            "nomor_urut": 5,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "596174": {
+            "nama": "MILA NURMALASARI",
+            "nomor_urut": 6,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "596175": {
+            "nama": "SITI LAILIAH",
+            "nomor_urut": 7,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        }
+    },
+    "17": {
+        "622869": {
+            "nama": "Hj. EUIS SUHARTINI, S.Pd.I.",
+            "nomor_urut": 1,
+            "jenis_kelamin": "P",
+            "tempat_tinggal": "LEBAK"
+        },
+        "622870": {
+            "nama": "HAKI NAZILI",
+            "nomor_urut": 2,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "622871": {
+            "nama": "BUNDANIJI, S.Pd.I.",
+            "nomor_urut": 3,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "LEBAK"
+        },
+        "622872": {
+            "nama": "LAZARUS SANDYA WELLA",
+            "nomor_urut": 4,
+            "jenis_kelamin": "L",
+            "tempat_tinggal": "TEGAL"
+        }
+    },
+    "24": null
+}
